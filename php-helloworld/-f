@@ -1,0 +1,14 @@
+Cloning "https://github.com/peterzintl/DO180-apps" ...
+	Commit:	f7cd8963ef353d9173c3a21dcccf402f3616840b (Initial commit, including all apps previously in course)
+	Author:	Jordi Sola <someth2say@gmail.com>
+	Date:	Fri Oct 4 13:04:03 2019 +0200
+Caching blobs under "/var/cache/blobs".
+Getting image source signatures
+Copying blob sha256:f557951730e4f4cbe40856a8095d0ea73e2a24def6579b7cd69c1b10f6c552d1
+Copying blob sha256:a8d8a88bbf1f0800d17bbd5bf3d3d8de6d755ccabfd019abf042f9f1b6c88d19
+Copying blob sha256:1f209e06e85d1c9a1b44b7a5b87360d7976245957624fcb9eededb7b5a8a0651
+Copying blob sha256:1255769d9dc0e834961b135c84a9e76c70b55c7176f8982192e579916737f7f4
+Copying blob sha256:15038f2f96bce3594a690ae501b9a380434face93ca0940d6a34ef5020f311f9
+Copying config sha256:688c0bd5a2df45963a42a8a0bb8ed692d2a7995bd66f2656206eefec1cb7cf4a
+Writing manifest to image destination
+Storing signatures
